@@ -1,0 +1,8 @@
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\bin\Debug\caRetangulos.exe.config
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\bin\Debug\caRetangulos.exe
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\bin\Debug\caRetangulos.pdb
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\obj\Debug\caRetangulos.csproj.AssemblyReference.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\obj\Debug\caRetangulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\obj\Debug\caRetangulos.csproj.CoreCompileInputs.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\obj\Debug\caRetangulos.exe
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caRetangulos\caRetangulos\obj\Debug\caRetangulos.pdb
