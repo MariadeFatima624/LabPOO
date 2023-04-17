@@ -1,0 +1,8 @@
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\bin\Debug\caVetores.exe.config
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\bin\Debug\caVetores.exe
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\bin\Debug\caVetores.pdb
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\obj\Debug\caVetores.csproj.AssemblyReference.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\obj\Debug\caVetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\obj\Debug\caVetores.csproj.CoreCompileInputs.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\obj\Debug\caVetores.exe
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caVetores\caVetores\obj\Debug\caVetores.pdb
