@@ -1,0 +1,8 @@
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\bin\Debug\caResistores.exe.config
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\bin\Debug\caResistores.exe
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\bin\Debug\caResistores.pdb
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\obj\Debug\caResistores.csproj.AssemblyReference.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\obj\Debug\caResistores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\obj\Debug\caResistores.csproj.CoreCompileInputs.cache
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\obj\Debug\caResistores.exe
+C:\Users\Porfírio\Maria de Fátima - Área de trabalho\POO\Códigos - Maria de Fátima\caResistores\caResistores\obj\Debug\caResistores.pdb
