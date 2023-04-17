@@ -1,0 +1,11 @@
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\bin\Debug\wfaPessoaFisicaJuridica.exe.config
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\bin\Debug\wfaPessoaFisicaJuridica.exe
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\bin\Debug\wfaPessoaFisicaJuridica.pdb
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.csproj.AssemblyReference.cache
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.Form1.resources
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.Properties.Resources.resources
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.csproj.GenerateResource.cache
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.csproj.CoreCompileInputs.cache
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.exe
+C:\Users\Maria de Fátima\source\repos\wfaPessoaFisicaJuridica\wfaPessoaFisicaJuridica\obj\Debug\wfaPessoaFisicaJuridica.pdb
